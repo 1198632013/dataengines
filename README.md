@@ -1,8 +1,8 @@
-# VOFA+ dataengines-Random
+# [VOFA+](https://github.com/je00/Vodka/tree/master) dataengines-Random
 
 ## 简介
 
-为[VOFA+](https://github.com/je00/Vodka/tree/master)的自定义数据引擎协议插件[Random](https://github.com/1198632013/dataengines)
+为VOFA+的自定义数据引擎协议插件[Random](https://github.com/1198632013/dataengines)
 
 
 
@@ -127,6 +127,6 @@ void loop() {
 
 ### 鸣谢
 
-感谢 je00 创造VOFA+这个免费且功能强大的平台，方便广大爱好者高效的开发和调试！
+感谢 [je00](https://github.com/je00) 创造VOFA+这个免费且功能强大的平台，方便广大爱好者高效的开发和调试！
 </br>
 感谢同事LiYang，帮忙提供了初步的插件雏形并利用Github的CI/CD来进行发布，为我打开新世界的大门！
