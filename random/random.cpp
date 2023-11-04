@@ -83,7 +83,7 @@ Random::~Random()
 QRegExp Separator = QRegExp(" |,"); // 空格 or 逗号
 
 // 帧结构：任意字符串 : CSV结构的数据 \n
-void FireWater::ProcessingDatas(char *data, int count)
+void Random::ProcessingDatas(char *data, int count)
 {
     frame_list_.clear();
     int begin = 0, end = 0;
