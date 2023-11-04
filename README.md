@@ -14,9 +14,9 @@
 | [Windows][win-link] | [Release][release-link] | [Download][download-link] | [Issues][issues-link] | [Wiki][wiki-links] |
 | ------------------- | ----------------------- | ------------------------- | --------------------- | ------------------ |
 | ![win-badge]        | ![release-badge]        | ![download-badge]         | ![issues-badge]       | ![wiki-badge]      |
-
-[win-link]: https://github.com/1198632013/dataengines/actions?query=workflow%3AWindows "WindowsAction"
-[win-badge]: https://github.com/1198632013/workflows/badge.svg  "Windows"
+            
+[win-link]: https://github.com/1198632013/dataengines/actions?query=workflow%3AWindows "Windows Qt5.14.2Action"
+[win-badge]: https://github.com/1198632013/dataengines/workflows/badge.svg  "Windows"
 [release-link]: https://github.com/1198632013/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/1198632013/dataengines.svg?style=flat-square "Release status"
 [download-link]: https://github.com/1198632013/releases/latest "Download status"
