@@ -11,7 +11,7 @@ TEMPLATE = lib
 
 DEFINES += PRINTF_LIBRARY
 
-include(../dataengine.pri)
+include(../dataengines.pri)
 
 
 # The following define makes your compiler emit warnings if you use
