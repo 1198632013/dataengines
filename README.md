@@ -17,7 +17,7 @@
             
 [win-link]: https://github.com/1198632013/dataengines/actions?query=workflow%3AWindows "Windows Qt5.14.2Action"
 [win-badge]: https://github.com/1198632013/dataengines/workflows/Windows%20Qt5.14.2/badge.svg  "Windows"
-[release-link]: https://github.com/1198632013/releases "Release status"
+[release-link]: https://github.com/1198632013/dataengines/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/1198632013/dataengines.svg?style=flat-square "Release status"
 [download-link]: https://github.com/1198632013/releases/latest "Download status"
 [download-badge]: https://img.shields.io/github/downloads/1198632013/dataengines/total.svg?style=flat-square "Download status"
