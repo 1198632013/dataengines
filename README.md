@@ -16,7 +16,7 @@
 | ![win-badge]        | ![release-badge]        | ![download-badge]         | ![issues-badge]       | ![wiki-badge]      |
             
 [win-link]: https://github.com/1198632013/dataengines/actions?query=workflow%3AWindows "Windows Qt5.14.2Action"
-[win-badge]: https://github.com/1198632013/dataengines/workflows/badge.svg  "Windows"
+[win-badge]: https://github.com/1198632013/dataengines/workflows/Windows%20Qt5.14.2/badge.svg  "Windows"
 [release-link]: https://github.com/1198632013/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/1198632013/dataengines.svg?style=flat-square "Release status"
 [download-link]: https://github.com/1198632013/releases/latest "Download status"
@@ -27,7 +27,6 @@
 [issues-badge]: https://img.shields.io/badge/github-issues-red.svg?maxAge=60 "Issues"
 [wiki-links]: https://github.com/1198632013/dataengines/wiki "wiki"
 [wiki-badge]: https://img.shields.io/badge/github-wiki-181717.svg?maxAge=60 "wiki"
-
 
 
 ## Random 协议介绍
