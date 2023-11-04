@@ -4,8 +4,9 @@
 
 为VOFA+实现的自定义数据引擎协议插件[Random](https://github.com/1198632013/dataengines)
 
-拓展firewater协议，增加多组数据空格匹配，增加数据标题=匹配
-![image](https://github.com/1198632013/dataengines/assets/18528979/822482c4-274a-4507-a932-553d230230f3)
+拓展firewater协议，增加多组数据 空格" " 匹配，增加数据标题 等号 "=" 匹配
+![image](https://github.com/1198632013/dataengines/assets/18528979/8f815389-51b2-4188-bc89-4ddedda2664a)
+
 
 
 
