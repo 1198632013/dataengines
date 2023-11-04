@@ -30,6 +30,7 @@ on:
 
 jobs:
   build:
+    name: Build
     runs-on: windows-2019
     strategy:
       matrix:
