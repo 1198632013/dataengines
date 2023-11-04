@@ -19,7 +19,7 @@
 [win-badge]: https://github.com/1198632013/dataengines/workflows/Windows%20Qt5.14.2/badge.svg  "Windows"
 [release-link]: https://github.com/1198632013/dataengines/releases "Release status"
 [release-badge]: https://img.shields.io/github/release/1198632013/dataengines.svg?style=flat-square "Release status"
-[download-link]: https://github.com/1198632013/releases/latest "Download status"
+[download-link]: https://github.com/1198632013/dataengines/releases/latest "Download status"
 [download-badge]: https://img.shields.io/github/downloads/1198632013/dataengines/total.svg?style=flat-square "Download status"
 [license-link]: https://github.com/1198632013/dataengines/blob/main/LICENSE "LICENSE"
 [license-badge]: https://img.shields.io/badge/license-MIT-blue.svg "MIT"
