@@ -5,7 +5,7 @@
 为VOFA+实现的自定义数据引擎协议插件[Random](https://github.com/1198632013/dataengines)
 
 拓展firewater协议，增加多组数据 空格" " 匹配，增加数据标题 等号 "=" 匹配
-![image](https://github.com/1198632013/dataengines/assets/18528979/8f815389-51b2-4188-bc89-4ddedda2664a)
+![image](https://github.com/1198632013/dataengines/assets/18528979/27b6d3e5-e833-4794-ac7b-0fae89f04027)
 
 
 
@@ -90,7 +90,7 @@ Random遇到换行才会打印数据，很多新用户在这里产生疑惑。
 
 ```c
 /*
-  For test VOFA+
+  for test VOFA+
   by Enzo
 */
 
@@ -102,7 +102,7 @@ void setup() {
   }
 }
 
-int thisByte = 0;
+float thisByte = 0.0f;
 
 void loop() {
 
@@ -118,9 +118,10 @@ void loop() {
   Serial.print(sin(thisByte));
   Serial.print("\r\n");
   
-  delay(100);
-  if (thisByte++ == 360) {    // you could also use if (thisByte == '~') {
-    thisByte = 0;
+  delay(50);
+  thisByte += 0.1f;
+  if (thisByte == 360.0f) {    // you could also use if (thisByte == '~') {
+    thisByte = 0.0f;
   }
 }
 ```
